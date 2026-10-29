@@ -1,0 +1,16 @@
+{
+    "name": "ConceptFactory.Cameras.Runtime",
+    "rootNamespace": "ConceptFactory.Cameras",
+    "references": [
+        "GUID:5dce1e5efc474ce4791e7ab351a3ddb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

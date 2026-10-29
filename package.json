@@ -1,0 +1,30 @@
+{
+  "name": "com.conceptfactory.cameras",
+  "displayName": "Concept Factory - Camera System",
+  "version": "1.0.2",
+  "type": "tool",
+  "unity": "6000.0",
+  "unityRelease": "43f1",
+  "description": "Camera management system built on Cinemachine, providing mode-based camera switching with per-mode framing profiles. Supports first-person, third-person, and custom view configurations with smooth transitions and occlusion handling. Designed to work alongside the Movement System for automatic camera adaptation per locomotion state.",
+  "license": "Source-Available \u2013 No Modification",
+  "licensesUrl": "SEE LICENSE FILE",
+  "keywords": [],
+  "author": {
+    "name": "Concept Factory",
+    "email": "conceptfac@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conceptfac/CameraSystem.git"
+  },
+  "dependencies": {
+    "com.conceptfactory.core": "1.0.2"
+  },
+  "samples": [
+    {
+      "displayName": "Scenes Examples",
+      "description": "",
+      "path": "Samples~/Scenes"
+    }
+  ]
+}
